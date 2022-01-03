@@ -4,7 +4,6 @@ channels:
   - defaults
 dependencies:
   - scikit-learn=0.23.1=py38h25d0782_0
-  - scipy=1.5.0=py38h9439919_0
   - matplotlib=3.2.2
   - numpy=1.18.5
   - pandas=1.0.5
