@@ -1,4 +1,0 @@
-name: ENVNAME
-channels:
-  - defaults
-prefix: C:\NMBU\Miniconda3\envs\ENVNAME
